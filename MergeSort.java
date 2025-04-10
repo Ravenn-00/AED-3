@@ -35,3 +35,4 @@ public class MergeSort {
         System.out.println("Ordenado: " + Arrays.toString(arr));
     }
 }
+
